@@ -1,0 +1,3 @@
+﻿  find_last_not_of.cpp
+C:\Users\мариа\source\repos\find_last_not_of\find_last_not_of\find_last_not_of.cpp(54): warning C4715: find_last_not_of: значение возвращается не при всех путях выполнения
+  find_last_not_of.vcxproj -> C:\Users\мариа\source\repos\find_last_not_of\x64\Debug\find_last_not_of.exe
